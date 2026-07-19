@@ -3,3 +3,4 @@ openpyxl>=3.1,<4
 pyarrow>=20,<24
 huggingface_hub>=0.34,<2
 osmium>=4.3,<5
+PyYAML>=6,<7

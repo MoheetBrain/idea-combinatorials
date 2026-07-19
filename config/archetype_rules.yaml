@@ -1,0 +1,616 @@
+version: 1
+
+broad_classification_patterns:
+  - '^all other\b'
+  - '^other\b'
+  - '\ball other\b'
+  - '\bnot elsewhere classified\b'
+  - '\bnec$'
+  - '\bnec\b'
+  - '\bmiscellaneous\b'
+  - '\bmiscellaneous$'
+  - '^miscellaneous$'
+  - '^commercial miscellaneous$'
+  - '^industrial miscellaneous$'
+  - '^leisure miscellaneous$'
+  - '^educational miscellaneous$'
+  - '^minerals miscellaneous$'
+  - '^crown miscellaneous$'
+  - '^disused pub\b'
+  - '^old pub\b'
+  - '^activities of households\b'
+  - '^undifferentiated .* households\b'
+  - '^activities of extraterritorial\b'
+  - '^general warehousing and storage$'
+
+administrative_patterns:
+  - '^administration of\b'
+  - '^regulation of\b'
+  - '^regulation and administration of\b'
+  - '^executive offices$'
+  - '^legislative bodies$'
+  - '^national security$'
+  - '^international affairs$'
+  - '^space research and technology$'
+  - '^activities of political organisations$'
+  - '^activities of religious organisations$'
+  - '^activities of membership organisations\b'
+  - '\bholding compan(?:y|ies)\b'
+  - '\bmembership organi[sz]ations?\b'
+  - '^activities of head offices$'
+  - '\bbusiness associations?\b'
+  - '\bgeneral public administration\b'
+  - '^regulation,? licensing,? and inspection\b'
+  - '\bcivic (?:and|&) public buildings\b'
+  - '^police(?: protection| stations?)?\b'
+  - '^fire (?:protection|service activities|stations?)\b'
+  - '^prison(?: service)?\b'
+  - '^court(?:house|s \(contractors valuation)\b'
+  - '^town ?hall\b'
+  - '^defence activities$'
+  - '^foreign affairs$'
+  - '^justice and judicial activities$'
+  - '^compulsory social security activities$'
+  - '\btribal governments?\b'
+  - '^(?:army|navy|raf|mod) hereditaments$'
+  - '\bpolitical organi[sz]ations?\b'
+  - '\b(?:labor|trade) unions?\b'
+
+infrastructure_keywords:
+  - advertising right
+  - battery storage
+  - bridge
+  - bulk cement storage depot
+  - communication station
+  - distribution network operator
+  - electricity transmission
+  - fossil fuel power station
+  - gasometer
+  - independent gas transporter
+  - land used for storage
+  - nuclear power station
+  - photovoltaic
+  - pipeline
+  - pumping station
+  - renewable power generator
+  - sewer
+  - silo
+  - storage tank
+  - telecommunication mast
+  - telephone kiosk
+  - underground gas storage
+  - wastewater plant
+  - water supply network
+  - wind farm
+
+digital_only_keywords:
+  - internet publishing
+  - software publisher
+  - web portal
+  - data processing and hosting
+  - virtual currency
+  - online-only
+  - web search portal
+  - internet-only
+  - media streaming distribution
+
+non_business_osm_values:
+  amenity:
+    - advice
+    - amnesty_bin
+    - bbq
+    - bench
+    - bell
+    - bicycle_parking
+    - binoculars
+    - boot_cleaner
+    - boot_scraper
+    - business
+    - cabinet
+    - checkpoint
+    - clock
+    - clothes_dryer
+    - compressed_air
+    - courthouse
+    - court_yard
+    - courtyard
+    - departure_lounge
+    - disused
+    - disused_pub
+    - drinking_water
+    - dog_toilet
+    - dressing_room
+    - fire_hydrant
+    - fire_station
+    - fixme
+    - fountain
+    - grave_yard
+    - grit_bin
+    - hunting_stand
+    - hall
+    - information
+    - job_centre
+    - loading_dock
+    - locker
+    - lounger
+    - mounting_block
+    - motorcycle_parking
+    - monastery
+    - musical_instrument
+    - notice_board
+    - old_pub
+    - parking
+    - parking_entrance
+    - parking_space
+    - payment_terminal
+    - piano
+    - place_of_worship
+    - police
+    - post_box
+    - public_bookcase
+    - printer
+    - prison
+    - reception_desk
+    - recycling
+    - sanitary_dump_station
+    - scooter_parking
+    - security_booth
+    - shelter
+    - shower
+    - smoking_area
+    - stage
+    - table
+    - telephone
+    - ticket_booth
+    - ticket_validator
+    - toilets
+    - townhall
+    - trolley_bay
+    - vacuum_cleaner
+    - vacant
+    - vicarage
+    - waiting_room
+    - waste_basket
+    - waste_disposal
+    - water_point
+    - watering_place
+    - weighbridge
+    - 'yes'
+  healthcare: ['yes']
+  office: [advice, association, charity, company, diplomatic, foundation, government, ngo, political_party, religion, unknown, 'yes']
+  shop: [amnesty_bin, closed, disused, 'no', vacant, 'yes']
+  leisure: [bandstand, bird_hide, bleachers, common, firepit, garden, green, outdoor_seating, paddling_pool, parklet, pitch, practice_pitch, schoolyard, slipway, track, undefined, 'yes']
+  tourism: [attraction, street_performance, 'yes']
+  industrial: [depot, electrical, factory, gas, natural_gas, oil, pumping_station, water, 'yes']
+  sport: ['*']
+  man_made: ['*']
+  landuse: ['*']
+
+physical_venue_keywords:
+  - arcade
+  - bakery
+  - bar
+  - bowling
+  - cafe
+  - centre
+  - cinema
+  - clinic
+  - club
+  - depot
+  - factory
+  - facility
+  - farm
+  - garage
+  - gym
+  - hospital
+  - hotel
+  - kitchen
+  - laboratory
+  - laundry
+  - market
+  - museum
+  - nursery
+  - office
+  - park
+  - pharmacy
+  - plant
+  - pub
+  - restaurant
+  - salon
+  - school
+  - shop
+  - studio
+  - theatre
+  - warehouse
+  - workshop
+
+mobile_service_keywords:
+  - mobile
+  - at customer premises
+  - on-site service
+  - roadside
+  - travelling
+
+self_service_indicators:
+  - coin-operated
+  - laundromat
+  - laundrette
+  - self-service
+  - self storage
+  - vending
+
+full_service_indicators:
+  - full-service
+  - full service
+  - staffed
+
+rental_indicators:
+  - hire
+  - leasing
+  - lessor
+  - rental
+  - renting
+
+repair_indicators:
+  - maintenance
+  - repair
+  - restoration
+  - servicing
+
+storage_indicators:
+  - self storage
+  - storage
+  - warehouse
+  - warehousing
+
+hospitality_indicators:
+  - accommodation
+  - bar
+  - cafe
+  - catering
+  - food service
+  - guest house
+  - hostel
+  - hotel
+  - motel
+  - pub
+  - restaurant
+
+healthcare_indicators:
+  - clinic
+  - dental
+  - dentist
+  - doctor
+  - health
+  - hospital
+  - medical
+  - optician
+  - pharmacy
+  - physiotherapy
+
+childcare_indicators:
+  - child care
+  - childcare
+  - children's centre
+  - day care
+  - nursery
+  - preschool
+
+operating_model_distinctions:
+  - [self_service, full_service]
+  - [mobile, fixed_site]
+  - [rental, sale]
+  - [production, retail]
+  - [repair, rental]
+  - [storage, fulfilment]
+  - [consumer, commercial]
+  - [indoor, outdoor]
+
+family_precedence:
+  - vehicle_washing
+  - vehicle_repair
+  - vehicle_sales_hire
+  - laundry_services
+  - repair_services
+  - rental_and_hire
+  - manufacturing_operations
+  - storage_services
+  - wholesale_distribution
+  - construction_services
+  - skilled_trades
+  - farming
+  - extraction_resources
+  - healthcare_facilities
+  - social_care
+  - childcare
+  - education_training
+  - restaurants_and_food_service
+  - bars_and_nightlife
+  - accommodation
+  - food_retail
+  - specialist_retail
+  - pet_services
+  - beauty_services
+  - funeral_services
+  - sports_venues
+  - entertainment_venues
+  - logistics_services
+  - passenger_transport
+  - professional_offices
+  - property_services
+  - media_studios
+  - technology_services
+  - environmental_services
+  - general_location_business
+
+abbreviation_expansions:
+  incl: including
+  mfr: manufacturing
+  svc: service
+  ctr: centre
+
+canonical_overrides:
+  - pattern: '\bcoin-operated laundr'
+    canonical_name: Self-service laundrette
+    family_id: laundry_services
+  - pattern: '\blaundromat\b|\blaundrette\b|\blaundrette\b'
+    canonical_name: Self-service laundrette
+    family_id: laundry_services
+  - pattern: '\bindustrial launder'
+    canonical_name: Commercial linen laundry
+    family_id: laundry_services
+  - pattern: 'drycleaning and laundry services \(except coin-operated\)'
+    canonical_name: Full-service laundry and dry-cleaning establishment
+    family_id: laundry_services
+  - pattern: '\bdry.?cleaning\b'
+    canonical_name: Dry-cleaning establishment
+    family_id: laundry_services
+  - pattern: '^self storage facility$|miniwarehouses and self-storage units|storage rental'
+    canonical_name: Self-storage facility
+    family_id: storage_services
+  - pattern: 'pet grooming'
+    canonical_name: Pet-grooming salon
+    family_id: pet_services
+  - pattern: 'golf driving range'
+    canonical_name: Driving range
+    family_id: sports_venues
+  - pattern: 'bowling centre|bowling center'
+    canonical_name: Indoor bowling centre
+    family_id: sports_venues
+  - pattern: 'bowling alley'
+    canonical_name: Bowling alley
+    family_id: sports_venues
+  - pattern: 'escape game'
+    canonical_name: Escape-room venue
+    family_id: entertainment_venues
+  - pattern: 'karaoke box'
+    canonical_name: Private karaoke-room venue
+    family_id: entertainment_venues
+  - pattern: 'parcel locker'
+    canonical_name: Parcel collection locker
+    family_id: logistics_services
+  - pattern: 'tool hire'
+    canonical_name: Tool-hire shop
+    family_id: rental_and_hire
+  - pattern: 'hairdressing and other beauty treatment|^hairdresser$|hairdressing activities'
+    canonical_name: Hairdressing and beauty salon
+    family_id: beauty_services
+  - pattern: '^car washes?$|stand alone car wash|car washes? stand alone|^vehicle wash$'
+    canonical_name: Vehicle washing service
+    family_id: vehicle_washing
+  - pattern: 'full-service restaurants?'
+    canonical_name: Full-service restaurant
+    family_id: restaurants_and_food_service
+  - pattern: '^restaurants?$'
+    canonical_name: Restaurant
+    family_id: restaurants_and_food_service
+  - pattern: '^cafes?$'
+    canonical_name: Cafe
+    family_id: restaurants_and_food_service
+  - pattern: '^fast food$|fast-food'
+    canonical_name: Fast-food outlet
+    family_id: restaurants_and_food_service
+  - pattern: '^bakeries$|^bakery$'
+    canonical_name: Bakery
+    family_id: food_retail
+  - pattern: '^commercial baker'
+    canonical_name: Commercial bakery
+    family_id: manufacturing_operations
+  - pattern: '^retail baker'
+    canonical_name: Retail bakery
+    family_id: food_retail
+  - pattern: 'nursery,? garden cent(?:er|re),? and farm supply retailers'
+    canonical_name: Garden centre and farm-supply retailer
+    family_id: specialist_retail
+
+domains:
+  - id: food_hospitality
+    name: Food, drink and hospitality
+    keywords: [restaurant, cafe, food, bakery, catering, pub, bar, hotel, accommodation, hostel, motel]
+  - id: retail_consumer
+    name: Retail and consumer goods
+    keywords: [retail, shop, store, dealer, supermarket, market, vending, florist, butcher, optician]
+  - id: personal_household
+    name: Personal and household services
+    keywords: [laundry, cleaning, hair, beauty, funeral, grooming, personal service, dry-cleaning]
+  - id: health_care
+    name: Health and care
+    keywords: [health, clinic, hospital, medical, dental, dentist, pharmacy, physiotherapy, care]
+  - id: education_childcare
+    name: Education and childcare
+    keywords: [school, education, training, nursery, childcare, child care, college]
+  - id: sports_leisure
+    name: Sports, leisure and entertainment
+    keywords: [sport, leisure, cinema, theatre, bowling, golf, fitness, gym, museum, escape, karaoke, gaming]
+  - id: property_storage
+    name: Property, storage and facilities
+    keywords: [storage, warehouse, property, real estate, facility, facilities management]
+  - id: transport_vehicle
+    name: Transport and vehicle services
+    keywords: [vehicle, car, motor, transport, taxi, bus, railway, shipping, courier, parcel, logistics]
+  - id: manufacturing
+    name: Manufacturing and production
+    keywords: [manufacture, manufacturing, production, processing, mill, factory, fabrication]
+  - id: construction_trades
+    name: Construction and skilled trades
+    keywords: [construction, building, plumber, electrician, joinery, roofing, glazing, installation]
+  - id: agriculture_resources
+    name: Agriculture and natural resources
+    keywords: [farm, farming, growing, raising, forestry, fishing, quarrying, mining]
+  - id: business_professional
+    name: Business and professional services
+    keywords: [office, legal, lawyer, accountant, consulting, architect, advertising, agency, professional]
+  - id: wholesale_logistics
+    name: Wholesale and distribution
+    keywords: [wholesale, wholesaler, distribution, distributor, warehousing]
+  - id: technology_media
+    name: Technology, media and communications
+    keywords: [computer, electronics, media, television, radio, studio, telecommunications, printing]
+  - id: environment_utilities
+    name: Environmental and utility services
+    keywords: [waste, recycling, water, energy, remediation, sewerage]
+  - id: other_location_dependent
+    name: Other location-dependent businesses
+    keywords: []
+
+families:
+  - id: laundry_services
+    name: Laundry and textile-care services
+    domain_id: personal_household
+    keywords: [cleaning of textile, dry-cleaning, drycleaning, launderer, laundrette, laundromat, laundry, textile cleaning]
+  - id: beauty_services
+    name: Hair and beauty services
+    domain_id: personal_household
+    keywords: [hair, beauty, barber, nail salon, spa]
+  - id: pet_services
+    name: Pet services
+    domain_id: personal_household
+    keywords: [pet, veterinary, animal boarding, grooming]
+  - id: funeral_services
+    name: Funeral services
+    domain_id: personal_household
+    keywords: [funeral, crematorium, cemetery]
+  - id: restaurants_and_food_service
+    name: Restaurants and prepared-food services
+    domain_id: food_hospitality
+    keywords: [canteen, cafe, catering, deli, fast-food, food court, food service, restaurant, takeaway]
+  - id: bars_and_nightlife
+    name: Bars and nightlife
+    domain_id: food_hospitality
+    keywords: [bar, pub, nightclub, drinking place]
+  - id: accommodation
+    name: Visitor accommodation
+    domain_id: food_hospitality
+    keywords: [accommodation, bed-and-breakfast, camp site, caravan site, guest house, hostel, hotel, inn, lodge, lodging, motel]
+  - id: food_retail
+    name: Food retail
+    domain_id: retail_consumer
+    keywords: [bakery, butcher, grocery, supermarket, convenience store, greengrocer, confectionery]
+  - id: specialist_retail
+    name: Specialist retail
+    domain_id: retail_consumer
+    keywords: [dealer, florist, newsagent, optician, pharmacy, retail, retailer, shop, store]
+  - id: rental_and_hire
+    name: Rental and hire services
+    domain_id: retail_consumer
+    keywords: [rental, renting, leasing, hire, lessor]
+  - id: repair_services
+    name: Repair and maintenance services
+    domain_id: personal_household
+    keywords: [repair, maintenance, servicing, restoration]
+  - id: healthcare_facilities
+    name: Healthcare facilities and practices
+    domain_id: health_care
+    keywords: [clinic, hospital, medical, dental, dentist, doctor, physiotherapy, pharmacy, healthcare]
+  - id: social_care
+    name: Social care services
+    domain_id: health_care
+    keywords: [assisted living, care home, day care, nursing home, residential care, retirement home, social care]
+  - id: childcare
+    name: Childcare services
+    domain_id: education_childcare
+    keywords: [childcare, child care, children's centre, kindergarten, nursery, preschool]
+  - id: education_training
+    name: Education and training
+    domain_id: education_childcare
+    keywords: [school, education, training, college, instruction]
+  - id: sports_venues
+    name: Sports and fitness venues
+    domain_id: sports_leisure
+    keywords: [sport, fitness, gym, swimming, golf, bowling, climbing, stadium]
+  - id: entertainment_venues
+    name: Entertainment venues
+    domain_id: sports_leisure
+    keywords: [amusement, arcade, arts centre, casino, cinema, escape-room, gallery, gambling, gaming, karaoke, museum, theatre]
+  - id: storage_services
+    name: Storage services
+    domain_id: property_storage
+    keywords: [storage, warehouse, warehousing, miniwarehouse]
+  - id: property_services
+    name: Property and facilities services
+    domain_id: property_storage
+    keywords: [real estate, estate agent, property, facilities management]
+  - id: vehicle_washing
+    name: Vehicle washing and valeting
+    domain_id: transport_vehicle
+    keywords: [car wash, vehicle wash, valeting]
+  - id: vehicle_repair
+    name: Vehicle repair and servicing
+    domain_id: transport_vehicle
+    keywords: [automotive body, automotive maintenance, automotive repair, car repair, vehicle repair, motor vehicle maintenance, garage]
+  - id: vehicle_sales_hire
+    name: Vehicle sales and hire
+    domain_id: transport_vehicle
+    keywords: [car dealer, vehicle dealer, vehicle rental, car rental]
+  - id: logistics_services
+    name: Logistics and parcel services
+    domain_id: transport_vehicle
+    keywords: [armored car, courier, delivery, freight, logistics, moving, parcel, post office]
+  - id: passenger_transport
+    name: Passenger transport
+    domain_id: transport_vehicle
+    keywords: [air transportation, bus, commuter rail, ferry, passenger transport, railway, taxi, transit systems, water transportation]
+  - id: manufacturing_operations
+    name: Manufacturing operations
+    domain_id: manufacturing
+    keywords: [brewery, distillery, fabrication, manufacture, manufacturing, mill, processing, production]
+  - id: construction_services
+    name: Construction services
+    domain_id: construction_trades
+    keywords: [civil engineering, construction, installation, roofing]
+  - id: skilled_trades
+    name: Skilled trade services
+    domain_id: construction_trades
+    keywords: [plumber, electrician, joinery, glazing, carpenter, painter, decorator]
+  - id: farming
+    name: Farming and growing operations
+    domain_id: agriculture_resources
+    keywords: [farm, farming, growing, nursery stock, plant nursery, raising, tree production]
+  - id: extraction_resources
+    name: Extraction and resource operations
+    domain_id: agriculture_resources
+    keywords: [extraction, fishing, forestry, logging, mining, quarrying]
+  - id: wholesale_distribution
+    name: Wholesale and distribution
+    domain_id: wholesale_logistics
+    keywords: [wholesale, wholesaler, distributor, distribution]
+  - id: professional_offices
+    name: Professional office services
+    domain_id: business_professional
+    keywords: [accountant, advertising, agency, architect, bank, banking, consulting, financial advisor, financial services, insurance, lawyer, legal, office]
+  - id: media_studios
+    name: Media and studio operations
+    domain_id: technology_media
+    keywords: [film, media, photography, printing, publisher, publishing, radio, studio, television]
+  - id: technology_services
+    name: Technology services
+    domain_id: technology_media
+    keywords: [computer, electronics, telecommunications, data processing]
+  - id: environmental_services
+    name: Environmental services
+    domain_id: environment_utilities
+    keywords: [electric power, energy generation, power generation, recycling, remediation, sewerage, utility, waste, water treatment]
+  - id: general_location_business
+    name: Other specific location-dependent operations
+    domain_id: other_location_dependent
+    keywords: []
