@@ -1,0 +1,489 @@
+archetype_id,canonical_name,sic_codes,reason,best_available_level,requires_manual_review
+arch_00336b575f9bf2523a9c,Docks & Harbours Non Stat,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_00eca0de4dd397b8faf9,Club venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_01d2b3876d320b49164e,Building societies,"[""64192""]",no defensible financial prior,subclass,true
+arch_02391fae7d0f105e2d71,Ship Building Yards,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_0252335fdcbe7df0a0b9,Amateur Rugby Clubs,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_0313cf603db02f555fc6,Pottery service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_0348a568f06392996dbf,University,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_035c570a413eb62eef8b,Metal Heat Treating,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_04c87007929da6fef689,Health Farms,[],no defensible risk prior,section,true
+arch_04d13aaa95d937e5987a,Device Charging Station,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_04e1f4d6a67988243c55,Underground Coal Mining,[],no defensible labour prior,section,true
+arch_059f9d89e0993f70d03a,Motorway Service Area Let Outs,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_0644910a8ee220388017,Other tree and bush fruits and nuts farm,"[""0125""]",no defensible risk prior,division,true
+arch_065a62f180f7a036deab,"Kaolin, Clay, and Ceramic and Refractory Minerals Mining",[],no defensible labour prior,section,true
+arch_06f17e1ae4ab9a31ce70,Hunting and Trapping,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_071f9514fb0a3361cfdd,Beer Garden,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_072fa2215661e4d3dead,Sawmills,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_08610f06a6b572dc15bd,Beach Huts,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_08b6780b641f3bac93dc,Floorer service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_08f7087fa3ee5514d42b,Marketplace,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_0919be6ecc65a834caab,"Vegetables and melons, roots and tubers farm","[""0113""]",no defensible risk prior,division,true
+arch_092b4809192670ef1284,Creameries,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_0a01ebabe4c9e865bb6b,Car Parks (Multi-Storey),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_0b18b6abd30dba70582b,Electricity Undertakings (Non-Statutory),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_0b1cf8310fbb60f5d8d6,Swinepigs farm,"[""0146""]",no defensible risk prior,division,true
+arch_0cc54e58fdb32efcfa7a,Changing Rooms,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_0ce92e746ba86c8b9883,Dressmaker service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_0d3786bbad714ef95873,Activities of investment trusts,"[""64301""]",no defensible financial prior,subclass,true
+arch_0d55d4c956c8ebb0b24e,Apartment,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_0d89d59fa1e548f30f11,Car Showrooms,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_0db6963a50e988cd8d0a,Custom Roll Forming,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_0e16689e5ff13bbf6ccb,Shoemaker service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_0e1c735fbd8a2addcf18,Theme Parks,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_0ede05f618b792265ba7,"Large Industrials (Over 20,000 m2)",[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_11007824144ec21ec8fb,Security and commodity contracts brokerage,"[""6612""]",no defensible financial prior,class,true
+arch_1139fab3ede1716aad0a,Support services to forestry,"[""0240""]",no defensible risk prior,group,true
+arch_135be3089fdc7016580d,Life insurance,"[""6511""]",no defensible financial prior,class,true
+arch_148d27da753fe75cae63,Ice Rink venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_150fc8f8ea966da4baa7,Mineral Producing Hereditament - Inert,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_154f6cde58cf3e69c3d2,Telephone Answering Services,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_15aa4e6073e8c9567326,Mineral Producing Hereditament - Other Mineral Category,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_15cf336e468aa4f79074,Deep Sea Passenger Transportation,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_17604dca473abe90aee5,Tailor service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_183b182713437bc4ee8a,Nature Parks and Other Similar Institutions,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_1880adb69ead49e39376,Fish Farms,[],no defensible risk prior,section,true
+arch_18a2b7d893319118fbb8,Silviculture and other forestry activities,"[""0210""]",no defensible risk prior,group,true
+arch_196bb65274b2338d5535,Showrooms,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_1999f8df9c3e3b4e5375,Arenas,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_19c05023ec123444ae94,Farm animal boarding and care,"[""01621""]",no defensible risk prior,class,true
+arch_1a358782d9ae08a76b8c,Maltings - Non Trad,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_1aa06a329ca703241126,Vineyards/Wineries,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_1b316cd63d39687c0f35,Civic Amenity Sites,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_1b8e8cd1a3572a31fca0,Garden Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_1c3219a7a64021009f7e,Motorway Service Areas & Major Road Service Areas,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_1c4d92d109ec583633d4,Game Farms,[],no defensible risk prior,section,true
+arch_1ccc2875c2ed6a11aea1,Fruit and Tree Nut Combination Farming,[],no defensible risk prior,section,true
+arch_1d93cd8ca702a32f0649,Iron Ore Mining,[],no defensible labour prior,section,true
+arch_1db413dd54da7852550a,Station Let Outs,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_1dbcc79834e4cbf54f7f,Clubhouse,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_204f7532029e2428d5aa,"Biomass Biological (Crop And Slurry Based Anaerobic Digesters, Including Gas To Grid)",[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_2065c3a33729a51476d8,Gathering of wild growing non-wood products,"[""0230""]",no defensible risk prior,group,true
+arch_2079e5d8fdc6d63642d3,Citrus fruits farm,"[""0123""]",no defensible risk prior,division,true
+arch_20a894e2753f11b74ace,Boat Yards,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_20ec06f57c1df67bd17d,Stables And Loose Boxes,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_215b665cab5e8dc75252,Industrial Sand Mining,[],no defensible labour prior,section,true
+arch_224853c9c23dba6717b8,"Spices, aromatic, drug and pharmaceutical crops farm","[""0128""]",no defensible risk prior,division,true
+arch_226c3a719cb9a00bc259,Activities of real estate investment trusts,"[""64306""]",no defensible financial prior,subclass,true
+arch_22f3f3988b903a2ce324,Air Ports (Minor),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_23b78ffeafaae649e4e0,Soybean Farming,[],no defensible risk prior,section,true
+arch_23cca579836f992e6507,Line-Haul Railroads,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_24ebc2083f655c1ef532,Photo Booth,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_253fcc6942c78f424d2d,Car/Caravan Sales/Display/Hiring Sites,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_262affa3c5df0d0e0f01,Holiday Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_264d722806391988e009,Activities of open-ended investment companies,"[""64304""]",no defensible financial prior,subclass,true
+arch_26afe37a6c9fab8d5708,Vending Machine,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_270914d748c6f90ea0ef,Scout Hut,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_27c16d063fce6ba2c91b,"Field Study, Activity And Adventure Centre",[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_27cbbe0a01d4b52e87f4,Agricultural Showgrounds,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_289f2a2ee5680da8c13d,Surface Coal Mining,[],no defensible labour prior,section,true
+arch_28bc6651dd0759ebdd88,"Village Halls, Scout Huts, Cadet Huts etc.",[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_29cc6745300c51cdbdb5,Repossession Services,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_29d59d8362ee43e0461c,Research and Development in Biotechnology (except Nanobiotechnology),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_2a3856daaa4362a2932a,Cricket Grounds (County),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_2b3d21f40b0173896a45,Point To Point And Eventing Courses,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_2b6e1398a2e61bccc168,Toy Library,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_2bb7985b76c3b72e52ea,Strawberry Farming,[],no defensible risk prior,section,true
+arch_2bf971d771396f248d77,Wood Preservation,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_2c7ea1d9543de6912218,Left Luggage,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_2caa6677e106f02b25be,Central banking,"[""6411""]",no defensible financial prior,group,true
+arch_2cb7a0580a34effeff62,Pleasure Piers,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_2d2463c274d9f76e1698,Laboratories,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_2db6dfa29efef20b4962,Grapes farm,"[""0121""]",no defensible risk prior,division,true
+arch_2ee86f915699b80809e8,Security Guards and Patrol Services,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_2f254e94992b10cf30e2,Landfill Gas Generator Sites,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_313c21801e53eca1fd4a,Activities of property unit trusts,"[""64305""]",no defensible financial prior,subclass,true
+arch_31b7a2698f26ec67c3cc,Public order and safety activities,"[""8424""]",no defensible financial prior; no defensible risk prior,class,true
+arch_3231a9227a3e42d1c692,"Hunting, trapping and related service activities","[""0170""]",no defensible risk prior,group,true
+arch_32563294b58994091874,Credit Unions,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_331bb6572076e2deafe4,Watchmaker service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_33621585d85826421bc7,Caravan And Camping Sites (Rvu),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_33c203f614a83c126de6,Tanning Salon venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_34688210fe461bdf8f04,Post-harvest crop activities,"[""0163""]",no defensible risk prior,class,true
+arch_349311f92fe4b549f973,Petrol Filling Stations,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_34d87d060635a0fd5f3d,Upholsterer service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_351e7f7fb559d773d9f6,Car Auction Buildings/Sites,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_35da9218b1793a20b219,Surgery,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_3766ecec16b8850ec2e7,Bagging Plant And Premises,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_385a691d9c9d81079207,Community Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_39768ee0a1a74876262f,Coking And Carbonising Plants,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_398a24955467e352020c,Cement Works,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_3a53cbbefbefd9d9041d,Polo Grounds,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_3ab8bfb3f6e158ff375f,Windmills,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_3ae2f9f457d6a1b501ff,Builders Merchant,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_3af5f2fe255106d272c7,ATMs,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_3b83673abc232e1735db,Football Pitches,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_3c5f76bc7d18a0e63ca5,Non-life reinsurance,"[""65202""]",no defensible financial prior,subclass,true
+arch_3c7433bf0d4996a70ba2,Peat Fields,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_3c98827b0a60c761c7dc,Risk and damage evaluation,"[""6621""]",no defensible financial prior,class,true
+arch_3df6bfcd87b7e0530341,Stately Homes & Historic Houses,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_3e119a75eb72e527a6b8,Workshop,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_3ea47b3c3237e8f20f82,Hackerspace venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_3ef27ff7afec5b86214f,"Pitches For Stalls, Sales Or Promotions",[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_3f31fffa7d2f2a37b0c0,Community Day Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_3f5a99f0e6c3e8b31a50,Poultry Hatcheries,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_3fcf79ece36a1ff39821,Fibre crops farm,"[""0116""]",no defensible risk prior,division,true
+arch_40ebc90d8d287ede513f,Church Hall,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_411d7ec313568e7d0e45,Artificial Fibre Works,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_419c6a98b4308e1a1624,"Scenic and Sightseeing Transportation, Other",[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_42a3bc5a7a8fca305b70,Petroleum Refineries,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_4316c34334d9bbd82198,Crude Petroleum Extraction,[],no defensible labour prior,section,true
+arch_4366426ec078edabcab7,Goat Farming,[],no defensible risk prior,section,true
+arch_43b504c249def093a084,Coastguard Stations,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_44af93e2d2d286332ff0,Cut and Sew Apparel Contractors,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_44e0d75aae0cc7cb48d6,Horse Riding venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_45000762c74b7f629a74,Flour Milling,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_45de4bded0abba2ae056,Clockmaker service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_471a51bf36c8451079ed,Carpet Layer service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_47a2f6ada9463772e4bc,Builder service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_47a663702047850d77e8,Car Spaces,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_480e8fb9e09380fc9860,Concert Halls,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_484643437fb5ff27a0a5,Marinas,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_48fdf3e14a1aa073662f,Axe Throwing venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_497c6ac93995a798b282,Research and Development in Nanotechnology,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_4a13b2234e1c0d5422e0,Car Sharing,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_4bc3e594ea7659e11e57,Libraries,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_4bf98bf9d0144c0227c4,Information/Visitor Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_4c94335ae65eed511937,Fishing shop,[],no defensible labour prior,section,true
+arch_4cd07f2dd86f872c31f7,Financial leasing,"[""6491""]",no defensible financial prior,class,true
+arch_4dc8ffb6607cbff91785,Conference Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_4e11aed46dd9506e9bfc,Public Bath,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_4e16daad88e90e4366f8,Mobile Library,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_4e184b433687795baa42,Portfolio Management and Investment Advice,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_4e36f818fc91c18a51b8,Historical Sites,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_4e390010230bf4dc9885,Concrete Block Works,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_4ef9c776f52a93978578,District Heating Undertakings & Networks,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_4f8af3e4f43b5cb9cc2c,Support Activities for Metal Mining,[],no defensible labour prior,section,true
+arch_50394edda928500626a6,Dual-Purpose Cattle Ranching and Farming,[],no defensible risk prior,section,true
+arch_504104b9b590903a4e7f,Mineral Producing Hereditament - Fluorspar,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_50fd820e32c3e89095b2,Washing Machine,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_522ee519489ea891d645,Squash Courts,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_52b1cac94832314eb832,Carpet and Upholstery Cleaning Services,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_53596aa81b07e56abdbe,Farm Management Services,[],no defensible risk prior,section,true
+arch_53e6b7e523ad9401a6b9,Oil Refineries,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_558b78b93d4b4fdb61a7,Other non-perennial crops farm,"[""0119""]",no defensible risk prior,division,true
+arch_577225e095e4db409cd5,Shellfish Fishing,[],no defensible labour prior,section,true
+arch_57de07def1a646068208,Geophysical Surveying and Mapping Services,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_57ebd8375ffe0f40163c,Sugar Beet Farming,[],no defensible risk prior,section,true
+arch_58884453700601f6bc1f,Indoor Play venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_593aa36b3b62571146e3,Biergarten,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_59be46ec1cb259f79f8e,Framing service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_59e6c8f5f55d6aede679,High Ropes Course,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_5b2e1769a424d311293d,Concrete Product Works,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_5c2f7a6fb9c095b3d8a9,Beet Sugar Factories,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_5d1880b89e6aa130b7cd,Logging,"[""0220""]",no defensible risk prior,group,true
+arch_5df1a183076e759c0441,Factoring,"[""64992""]",no defensible financial prior,subclass,true
+arch_5dfd5101fc61f3ebb084,Educational Support Services,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_5ecd33e413557302ab31,Refuse Destructor Plants/Disposal Sites,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_5fd361d4113299165734,Statutory Docks And Harbours (Other),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_60665a6114f9dd6e3580,"Cereals (except rice), leguminous crops and oil seeds farm","[""0111""]",no defensible risk prior,division,true
+arch_61c0abac93a7e65969bc,Activities of mortgage finance companies,"[""64922""]",no defensible financial prior,subclass,true
+arch_6211a1dd9793b57e54e4,Car Parks (Unsurfaced Open),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_6285b81b26e9ff6e3561,Football Stadia,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_62c497a8b5de83c8d056,Kennels And Catteries,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_63055a4fb499ce778868,Marine aquaculture,"[""0321""]",no defensible risk prior,class,true
+arch_63d7b04993598dd3e860,Tire Retreading,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_66384b8c69c84091e26b,Guest & Boarding Houses,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_666a742890821ed6c4a8,Mineral Producing Hereditament - Oil,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_679722729eefe02762ea,Sheep and goats farm,"[""0145""]",no defensible risk prior,division,true
+arch_67e3cf46c31666cb37c4,"Scenic and Sightseeing Transportation, Water",[],no defensible labour prior,section,true
+arch_67f6395a764710c7f966,Cattle Feedlots,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_681840aea2bdcf1cc177,Investigation and Personal Background Check Services,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_681d60b002fcf51bc91e,Motor Vehicle Works,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_681e6f841277e8903b4f,Livestock Markets,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_68215b35036f55845142,Clubhouses,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_692ac9619dd60baf2308,Contractors Huts And Compounds,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_694d347d1a5664993ef1,Signmaker service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_698f3bd6c90e365e064b,Go Kart Rinks,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_6a509e75fcad434c53c1,Interior Design Services,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_6ad89b83f90448b80bfc,Caterer,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_6aedb4d1eefdad388e5a,"Cafeterias, Grill Buffets, and Buffets",[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_6af0dea6a7d759ab8e06,Marina venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_6b041ea289fca7c473ea,War Games Courses/ Misc Ag Use,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_6b8b14ddc3d3d93fe83d,Bingo Halls,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_6bcf507ab3f1a9ed97b5,Tobacco Farming,[],no defensible risk prior,section,true
+arch_6c4bbfc65aa5f8cc3385,Consumer Lending,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_6c9d800448f6ae67e0e6,Custom Compounding of Purchased Resins,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_6d3ee50d1d095b4aea01,Timeshare Complexes,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_6e0a3784f187ff5d095f,Leather and Hide Tanning and Finishing,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_6e3ca486042e02a60831,Foundries,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_6f44d062edd56981acbe,Activities of venture and development capital companies,"[""64303""]",no defensible financial prior,subclass,true
+arch_6f9ba0f8c183594b010d,Horses and other equines farm,"[""0143""]",no defensible risk prior,division,true
+arch_6fca42cce0c6ba815350,Mortuary,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_6fd347e207d5b958992a,Animal Shelter,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_6fdb9ef356cc341d6a43,Freshwater aquaculture,"[""0322""]",no defensible risk prior,class,true
+arch_704c959834f8953e0520,Public Finance Activities,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_705b26c5d46948a18d2d,Temporary Help Services,[],no defensible risk prior,section,true
+arch_706e990cdd92fda9c116,Hypermarkets/Superstores (Over 2500 m2),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_713d7139e6b86a208a86,Royal Palaces,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_71a64a1dacd7dd50b621,Cricket Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_71aac86ac2a73a6ef992,Beekeeper service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_71b0fb435b520bba58ff,Zoos and Botanical Gardens,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_71f52006efe576c08bc3,Tiler service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_721ce8c95397261e5ddc,Coworking Space,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_73496831367387a2adb4,Furniture service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_7480be18a7791949044d,Support Activities for Nonmetallic Minerals (except Fuels) Mining,[],no defensible labour prior,section,true
+arch_750cab53ae306279511b,Mineral Producing Hereditament - Blockstone,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_75b7d61f171873057bb4,Wheat Farming,[],no defensible risk prior,section,true
+arch_75e7fd3ac47c3facb9c4,Hog and Pig Farming,[],no defensible risk prior,section,true
+arch_7723df8c72371b5677e8,Rifle & Weapons Ranges,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_783662525280526f903b,Boathouses,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_78df829d67024e14d759,Money Transfer,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_79801e54ed80a9992dc9,Printer service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_7c226df798a627be6cbd,Pitch And Putt/Putting Greens,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_7c674bd7b0042765cc62,Mixed farming,"[""0150""]",no defensible risk prior,division,true
+arch_7c6b07eb041186c0e164,Corn Farming,[],no defensible risk prior,section,true
+arch_7c8e400556c74469305f,Traveller Sites,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_7d25145337ee22ac179f,Tennis And Padel Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_7e89f8057a00d0cdecaf,Correctional Institutions,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_7f58f36e23ed48e5c02e,Park & Ride Car Parks,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_80fbf96383de5dce14b1,Showhouses,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_810a9189ed07b603f82d,Archives,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_811b54600f62c52a891a,Night Clubs & Discotheques,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8247bf8cfa07b9110d80,Crushed and Broken Limestone Mining and Quarrying,[],no defensible labour prior,section,true
+arch_8304e81ce7c13280d6a4,"Copper, Nickel, Lead, and Zinc Mining",[],no defensible labour prior,section,true
+arch_83336c7163fec69a8a49,Mineral Producing Hereditament - Gas,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_838ebc2f779e963ef0ad,Nonferrous Metal Die-Casting Foundries,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_83f00dbc8d2f7963d405,Private Club,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_846306ce4899beadb8d8,Blacksmith service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8498e10f51a16747a02c,Racing Stables,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_84a4b01d5bd6eaa3b33d,Social Club venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_84c1a7abb79791a57c33,Roller Skating Rinks,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_84fa1712834e7239900f,Tropical and subtropical fruits farm,"[""0122""]",no defensible risk prior,division,true
+arch_852b8b09e5a75723fdf6,Tennis Courts/Clubs,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8692c507b80d63f5f0ef,Stables,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_86ee2f95ecb404b9a60e,Conference & Exhibition Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_87def4cb9c214748f4af,Mineral Producing Hereditament - Clay,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_88d02a1dc02f4836869a,Pavilions,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_88f70d59551589cabb37,Beverage crops farm,"[""0127""]",no defensible risk prior,division,true
+arch_890e627c10049b5f64c1,Serviced Apartments,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8913171b0c8911dcec40,Mineral Producing Hereditament - Chalk,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8a55295d9309e487a2f3,Public Building,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8b4a704949fbfea780f2,Vehicle Inspection,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8b60b9cdfa87a44b9b18,Swingerclub,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8b87e9fd8d3431f824b6,Scrap Yard operation,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8c396d7401a705816548,AA/RAC Service Centres And Boxes,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8d20659c2824bb7da304,Convention and Trade Show Organizers,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8d5182fba5c6d819906f,Lounge,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8e6ffc4899d20938b0e7,Farm Shop,[],no defensible risk prior,section,true
+arch_8e749ceceda249661a45,Support Activities for Forestry,[],no defensible labour prior,section,true
+arch_8e96c038774f695ec457,Greyhound Racetracks,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8ec2af7017a2889a7167,Packaging and Labeling Services,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8ec8d20dbe473e6058d8,Cleaning service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8f4f7beb528a79c04e5d,Ski Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_8feea468276ac4cbed3e,Vehicle charging station,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_9082364158a52608d975,Seed processing for propagation,"[""0164""]",no defensible risk prior,class,true
+arch_909cce7d4900322c60b7,Concert Hall,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_90b427c49f3fafaf225c,Cricket Grounds/Pitches (Non-County),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_915aacd919199419340c,Zoo,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_91a4775ebd2319267205,ATM,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_91d088bd72dfc653fbaf,Scaffolder service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_92bce3b092a407b20b1e,Photographer service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_93543e2cc4b1885cd20c,Packing and Crating,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_9370d0d510bf39214dbf,Wedding Venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_93d20fc07ce82f3cdf47,Telescope Sites,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_94c833befc485d866a7a,Pension funding,"[""6530""]",no defensible financial prior,group,true
+arch_94dcbe98eb85ed049d89,Cable Head End Buildings,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_9516c8afe4b386676ddb,Steel Wire Drawing,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_953fd05b08a06832e5eb,Professional Employer Organizations,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_95916f1fa24ecefdbb6a,Chalet,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_959e7b963d8e39abf1bc,Hvac service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_95e1d929a91d93f368ad,Concrete Batching Plants,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_964599fff5f1f01ca553,"Electroplating, Plating, Polishing, Anodizing, and Coloring",[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_97e996e764f8410081ec,Other animals farm,"[""0149""]",no defensible risk prior,division,true
+arch_9a285d409b67f289733a,Nursery and Tree Production,[],no defensible risk prior,section,true
+arch_9a39d084c5ab5db7b7a5,Plant propagation,"[""0130""]",no defensible risk prior,division,true
+arch_9a6299e1dcfa268abf03,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",[],no defensible risk prior,section,true
+arch_9a7416fbf0c2ae7b31ed,Sporting Rights,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_9ad04606f7e9f9274725,Peanut Farming,[],no defensible risk prior,section,true
+arch_9bad84a65074b0a00b3f,Aircraft Works With Airfields,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_9bc48b05c8114b95a328,Nonferrous Metal (except Aluminum) Smelting and Refining,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_9be81ba0478fa13b437e,"Statutory Docks And Harbours (Non-Formula, Prescribed)",[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_9c02eac6e014cb99e8aa,Dry Pea and Bean Farming,[],no defensible risk prior,section,true
+arch_9c12a2759dc10e601ea4,Camels and camelids farm,"[""0144""]",no defensible risk prior,division,true
+arch_9ceafcf718818d9bcbf6,Fishing venue,[],no defensible labour prior,section,true
+arch_9d90be4e1937fbae73dd,Potteries,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_9eea35f2848df4360115,Poultry farm,"[""0147""]",no defensible risk prior,division,true
+arch_a001c6611efecbe300d9,Horse Racecourses,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_a02713bebf592eef1d6b,Mineral Producing Hereditament - Sand & Gravel,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_a040fdc0cf111463fb0f,Social Facility,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_a0ef2f8d694970b57b03,Air Strips,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_a2e45b7ccafa51156577,Dance venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_a33d8c7fe7e927396459,Mineral Producing Hereditament - Putrescible,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_a35aedb1f1e903d626da,Banks,"[""64191""]",no defensible financial prior,subclass,true
+arch_a4214f30a1d3e10ef09a,Activities of insurance agents and brokers,"[""6622""]",no defensible financial prior,class,true
+arch_a4c5836930bdd3169bd1,Observatories,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_a6aa943229b8fb2790fc,Soccer Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_a6cae720ae583122e866,Animal (except Poultry) Slaughtering,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_a79600c8fb176df494ea,Cattle Breeding Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_a7f5c5c14c703f2f1d0b,Model Villages,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_a9082777f4dddfba1d50,Residual Malls,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_aa14e382458af9381cd5,Plant Nurseries,[],no defensible risk prior,section,true
+arch_aa62d3adfdfcc4f0b591,Social Club,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_aad4b06ff77a6ae0b3e2,Stud Farms,[],no defensible risk prior,section,true
+arch_ab65c84129f82ae5ba56,Cotton Ginning,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_abf1ca1ccc77d20457a1,Pack Houses,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_acabd143e1b481f8140c,Drive-In Motion Picture Theaters,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_adcf31dfe4e1c86265d7,Potato Farming,[],no defensible risk prior,section,true
+arch_ae0a45df67f1a3378d0e,Finfish Farming and Fish Hatcheries,[],no defensible risk prior,section,true
+arch_b02144b4e29b7825a6a0,Trampoline Park venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_b06c627125c15f608477,Natural Gas Extraction,[],no defensible labour prior,section,true
+arch_b0bb47a9964841a0a870,Winery service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_b0c4ea6d9a00afc9dd12,Drilling Oil and Gas Wells,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_b0e0bf6d232417f895c2,Life reinsurance,"[""65201""]",no defensible financial prior,subclass,true
+arch_b0e7eae81043fa1d87da,Civil Airports,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_b11e2535cb521aa764ad,Sheep Farming,[],no defensible risk prior,section,true
+arch_b176ffa664779c0e2a17,Zoos & Safari Parks,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_b21a5e2bd7e1b35aebb0,Oilseed and Grain Combination Farming,[],no defensible risk prior,section,true
+arch_b30d53a4265537057c15,Iron And/Or Steel Works,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_b495b4acdbb609ba953c,Tree Nut Farming,[],no defensible risk prior,section,true
+arch_b5758fc7ba6794553b1f,Brothel,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_b6907fa9367a227e592b,Photographic Laboratory service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_b7b1a2d1ff86362301f5,Water Park venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_b8704dda6678c04827f6,Plasterer service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_b88417aa7aba301d4fd6,Glaziery service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_b888ad5eb72d82804b91,Crushed and Broken Granite Mining and Quarrying,[],no defensible labour prior,section,true
+arch_b903444aac8786c3e085,Meditation Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_b953c80040d5fc2aa246,Mineral Producing Hereditament - Slate,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_b96c424380e0d09549e9,Heliports,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ba7ee53e4124d8f48e85,Stonemason service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_baa19a1da68c95490175,Mineral Producing Hereditament - Brine,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_bb22c9f5ee4db90421b8,Football Grounds,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_bb93cffb079d49a31b49,Tourist Attractions (Dark Rides),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_bc704b168b285d3f0588,Rice farm,"[""0112""]",no defensible risk prior,division,true
+arch_bdad45f094e2246c85f9,Shellfish Farming,[],no defensible risk prior,section,true
+arch_be6ef974fd8d32bff897,Passenger Information,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_bed6683f37b9d8317df8,Land Used For Display,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_bfb54fb63a185d3ad777,Cement Tile Works,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_bfdfe6dfebdb79c086e0,Apple Orchards,[],no defensible risk prior,section,true
+arch_c0479b554228c43d99a6,Timber Tract Operations,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c081c05d548404cee742,Social Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c0ec925f7efcb4babee6,Apiculture,[],no defensible risk prior,section,true
+arch_c14c7fede6afddd1e4e9,Telemarketing Bureaus and Other Contact Center,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c1b061a32347ae3b7935,Tuition,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c22cad72c6fc76bfa241,Research and Development in the Social Sciences and Humanities,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c2991a1b0fd40c5a5a06,Translation and Interpretation Services,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c3357c056b200e1557ed,Dog Walking And Agility Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c33d41511ee1b14fde9e,Dance Companies,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c38f2395ca36a8885aec,Community Hall,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c56d7efbcd5637a7ae72,Speedway Racetracks,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c5f51c0ef97eb21e9b54,Locksmith service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c611901d518ca5edb9bc,Luggage Locker,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c79cd221700f0d45d302,Library,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c7d442821a6428d22bc5,Ambulance Stations,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c7d492099f271bc41922,Research Institute,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c80b386423a41ceab797,Gold Ore and Silver Ore Mining,[],no defensible labour prior,section,true
+arch_c843af1af666e59dc985,Voluntary Health Organizations,[],no defensible risk prior,section,true
+arch_c865692dc655c0bd884d,Professional Rugby Clubs,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_c8aacd3a7ebea2b902d2,Berry (except Strawberry) Farming,[],no defensible risk prior,section,true
+arch_ca5b77d8ae80f0f5d995,Aquaria,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_cacf48fd0de9de4efdd2,Post Depot,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_cae16eb681a98e297b57,Sugarcane Farming,[],no defensible risk prior,section,true
+arch_caff3a4c00e1958d28d1,Support Activities for Coal Mining,[],no defensible labour prior,section,true
+arch_cbb10e2c665f0cd999c6,Hookah Lounge,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_cc150568dd23633cda53,Occupation Within A Statutory Port Undertaking,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_cdfa92c934f2dbe3be36,Courts (Contractors Valuation),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ce96cc5571bf0fc9f452,Sewage Works,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_cf0e1f10af4de4e5ebfc,Bird Sanctuaries,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d05f66e268e231e77037,Ice Rinks,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d07e589f194602cf462f,Security dealing on own account,"[""64991""]",no defensible financial prior,subclass,true
+arch_d0afed5a72f51ebfb6d9,Health Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d18f534af163d469960b,Rice Farming,[],no defensible risk prior,section,true
+arch_d1cfac89c81e94ba7fd6,Pome fruits and stone fruits farm,"[""0124""]",no defensible risk prior,division,true
+arch_d2317226ca104878d7a6,University - Ancillary Land Or Buildings,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d274a9bebb9f4535a323,Mineral Producing Hereditament - Coal,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d2e3ad2a0bced688a725,Renewable Generators - Mixed Technologies,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d3752fbe9d80fa7a473f,Motor Racetracks,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d3d2ff5f621bc4c05f87,Exhibition Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d40cc389a70bac224823,Roofer service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d4f04f224ef3ad18555c,Truck Stops,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d52f59d2f9670cdecd13,Printmaker service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d617ec2666db8d61b204,Beef Cattle Ranching and Farming,[],no defensible risk prior,section,true
+arch_d6bf613c20fa6a8e19e6,Markets (Other Than Livestock),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d6c93472f6477cfb9922,Land Used For Car Boot Sales,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d71bb896bdc0676d7497,Chain-Operated And Large Caravan Parks,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d7764c0791dcae024f36,Spoil Heap Workings,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d931672769db4117db48,Limousine Service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d941d9d7ac0f561cb10d,Public Conveniences,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_d96a82b8673ac157d246,"Environment, Conservation and Wildlife Organizations",[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_da09456e1ea1c1ae9d04,Mineral Depot And Premises,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_da291d29f9fb380381be,Sugar cane farm,"[""0114""]",no defensible risk prior,division,true
+arch_dae6632189d34270b5fd,Mortuaries,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_dafc7d4b20e5a599d898,Asphalt Plants,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_db35127f77eeac6fd295,Citrus (except Orange) Groves,[],no defensible risk prior,section,true
+arch_db4ec7c33b2a4f23cc3d,Lorry Parks,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_db982ff419138c695e6e,Grape Vineyards,[],no defensible risk prior,section,true
+arch_dc68fe8d331800e88904,Nuclear Establishments,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_dd3f931fa1273053bea8,Air Traffic Control,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_deff960b6fcbbd2bc825,Oleaginous fruits farm,"[""0126""]",no defensible risk prior,division,true
+arch_df2288008b70d7c23536,Janitorial Services,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_df318d86fe5102f34051,Auction Rooms,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_dfc5c7e6ec22eadab286,Mineral Producing Hereditament - Hardrock,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_dfd784da295f9db7e791,Pumping Mines,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_e0f75831e3f8d5e1b0d6,Support activities for crop production,"[""0161""]",no defensible risk prior,class,true
+arch_e18a525bf6f7fce18004,Music Venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_e1c11ce5ad10dca75018,Snooker Halls/Clubs,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_e2698170b007464455ce,Securities and Commodity Exchanges,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_e283a1af79c36a1defca,Business Units,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_e36db7ca324879bca52a,Maltings - Trad,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_e38f7005cbd36e36a90f,Bureau De Change,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_e3b56b4dfeb06d4e3302,Drafting Services,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_e4068d4e1cfed4ca65a3,Chemical Works,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_e5d476d4f6799e04c821,Livery Hall,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_e60bf78df0d047aa44de,Vehicle Testing Centres (With Test Tracks),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_e6338adfb79733ec16eb,Executive Search Services,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_e66bb5db9c624437b912,Freshwater fishing,"[""0312""]",no defensible risk prior,class,true
+arch_e67026edcccdb4873510,Lifeboat Stations,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_e6f31d3014256f8e7040,Farm Labor Contractors and Crew Leaders,[],no defensible risk prior,section,true
+arch_e7164bfc26cec4ebe7e5,Orange Groves,[],no defensible risk prior,section,true
+arch_e7ccdcdcb83ceab2aa07,Wedding And Function Venues,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_e81693509c173ca4d485,Hay Farming,[],no defensible risk prior,section,true
+arch_e9582b4091134f33ee57,Gardener service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ea0198a28bd67f2b9d03,Finfish Fishing,[],no defensible labour prior,section,true
+arch_ea82d3edbde564a98a56,Agricultural Research Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_eaa46f78262fd5d4099c,Mineral Producing Hereditament - Sand,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ebe16dcc036cd8d07dec,Dimension Stone Mining and Quarrying,[],no defensible labour prior,section,true
+arch_ebf9dc2db3f994dbef4e,Atelier service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ec3af481e7d372517bf8,Exhaust & Tyre Centre,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ec5366f8815b8353c20d,Stripclub,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ed24dfb859df8941852f,Water Undertakings (Non-Statutory),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ed524469e8b777d8c801,Port and Harbor Operations,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ed7742208f0586309c30,Marine fishing,"[""0311""]",no defensible risk prior,class,true
+arch_ee1c77af548b5508b1d2,Aquarium,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ee2084fcd74b89a9b328,Car Parks (Surfaced Open),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ee381c481479f5121ea8,Other cattle and buffaloes farm,"[""0142""]",no defensible risk prior,division,true
+arch_ee3e9b9271979e7cdd27,Jeweller service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ee892438834f68ddc36a,Moorings (Floating Hereditaments),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ef46f9b47181c07369ef,Non-life insurance,"[""6512""]",no defensible financial prior,class,true
+arch_ef6d028c683f42b7427e,Mortgage and Nonmortgage Loan Brokers,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ef96a714025511170b09,Vehicle Testing Centres (Without Test Tracks),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_f20e44b56cbd442dbc06,"Biomass Thermal (Including Combustion, Gasification, Pyrolysis)",[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_f2314c33d462b818dfc7,Sauna venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_f29b272a9f548b6b1437,Dairy cattle farm,"[""0141""]",no defensible risk prior,division,true
+arch_f30381802471ded301b0,Activities of unit trusts,"[""64302""]",no defensible financial prior,subclass,true
+arch_f419d9a5a8db13dd2b4e,Chiropodist,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_f476888eba8bbd3315da,Airport Let Outs,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_f4a3197d89a03e7b3cd4,Dojo,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_f6eedbca6f20c62fb048,Short Line Railroads,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_f84ae48e3e8e613eea5e,Scrap Metal/Breakers Yard,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_f88cbefbc489f82ecf1c,"Brickworks (Traditional), Clay Tile/ Pipe Works",[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_f9a4cbbf5a7a4795d5c1,Events Venue,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_f9b4de8ad143d7c0d43a,Fund management activities,"[""6630""]",no defensible financial prior,class,true
+arch_f9ef9b9333dce99c6fa0,Handicraft service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_f9fb3f5f1372e36197aa,Aluminium Smelting Works,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_fa138ab7ad1d358afc78,Joiner service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_fa45dbe4b9135d9bc8a6,Hatcheries/ Poultry Farms,[],no defensible risk prior,section,true
+arch_fa7a239bb29b00cd1ab6,Mineral Producing Hereditament - China Clay,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_fa8396c189456488521f,Other perennial crops farm,"[""0129""]",no defensible risk prior,division,true
+arch_faef45a9aabb5f433e6a,Cotton Farming,[],no defensible risk prior,section,true
+arch_fb09bdae0e098b820c73,Tanneries,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_fb3676c9e3460d79c40b,Vending Machine Operators,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_fda641ec4d94026c0a3f,Credit granting by non-deposit taking finance houses and other specialist consumer credit grantors,"[""64921""]",no defensible financial prior,subclass,true
+arch_fdb16cfb94f01d797264,Oilseed (except Soybean) Farming,[],no defensible risk prior,section,true
+arch_fe563a1e90b581926140,Tobacco farm,"[""0115""]",no defensible risk prior,division,true
+arch_fe75aa51d047545ed176,Sales Kiosks,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ff09e7036d93022ca231,Fuel station,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ff1c780a4fccf29c2408,Commodity Contracts Intermediation,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ff53f9120509d72a2da8,Religious Retreats/Study Centres (Residential),[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
+arch_ff6b921b369899410f22,Key Cutter service,[],no defensible financial prior; no defensible labour prior; no defensible risk prior,none,true
