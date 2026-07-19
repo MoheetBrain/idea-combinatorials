@@ -1,0 +1,9 @@
+.DS_Store
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# The current Greater London extract is reproducible and exceeds GitHub's
+# ordinary 100 MB object limit. Track its official checksum and manifest entry.
+/data/raw/osm/*.osm.pbf
