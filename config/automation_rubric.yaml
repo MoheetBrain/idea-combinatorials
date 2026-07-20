@@ -1,0 +1,151 @@
+version: 1
+unknown_policy: "Unknown is preserved as unknown and never converted to a midpoint."
+score_scale:
+  low: 0.15
+  medium: 0.50
+  high: 0.85
+  unknown: null
+
+dimensions:
+  - digital_input_availability
+  - digital_output_acceptability
+  - language_reasoning_requirement
+  - structured_rule_content
+  - physical_manipulation_requirement
+  - mobility_requirement
+  - fine_motor_requirement
+  - human_presence_requirement
+  - social_emotional_requirement
+  - trust_requirement
+  - legal_accountability_requirement
+  - safety_criticality
+  - exception_variability
+  - environmental_variability
+  - integration_complexity
+  - verification_observability
+
+business_family_naics_fallbacks:
+  Bars and nightlife: "722400"
+  Childcare services: "624400"
+  Construction services: "230000"
+  Education and training: "6110P2"
+  Entertainment venues: "713900"
+  Environmental services: "562000"
+  Extraction and resource operations: "210000"
+  Farming and growing operations: "110000"
+  Food retail: "445000"
+  Funeral services: "812200"
+  Hair and beauty services: "812100"
+  Healthcare facilities and practices: "621000"
+  Laundry and textile-care services: "812300"
+  Logistics and parcel services: "492000"
+  Manufacturing operations: "31-330"
+  Media and studio operations: "512000"
+  Passenger transport: "485000"
+  Pet services: "812900"
+  Professional office services: "541000"
+  Property and facilities services: "561700"
+  Rental and hire services: "532000"
+  Repair and maintenance services: "811000"
+  Restaurants and prepared-food services: "722000"
+  Skilled trade services: "238000"
+  Social care services: "624000"
+  Specialist retail: "44-450"
+  Sports and fitness venues: "713940"
+  Storage services: "493000"
+  Technology services: "541500"
+  Vehicle repair and servicing: "811100"
+  Vehicle washing and valeting: "811190"
+  Visitor accommodation: "721100"
+  Wholesale and distribution: "420000"
+
+# Narrow deterministic corrections used only when the canonical operation is
+# materially more specific than its business-family fallback. These remain
+# evidence grade E/manual-review transfers, not observed establishment mixes.
+archetype_naics_overrides:
+  bowling alley: "713900"
+
+task_rules:
+  physical_handling:
+    keywords: [clean, lift, carry, load, unload, install, repair, operate, machinery, equipment, prepare food, cook, bake, serve food, wash, groom, cut, assemble, maintain, drive, deliver, stock, replenish, package, fold, wrap, hang, scrub, polish, feed, water animals, use tools, move materials]
+    dimensions:
+      physical_manipulation_requirement: high
+      human_presence_requirement: high
+      digital_output_acceptability: low
+  safety_or_legal:
+    keywords: [emergency, safety, diagnose, treat patient, prescribe, supervise children, restrain, legal compliance, certify, authorize, investigate accident]
+    dimensions:
+      legal_accountability_requirement: high
+      safety_criticality: high
+      trust_requirement: high
+  social_emotional:
+    keywords: [counsel, comfort, negotiate, mediate, resolve complaints, persuade, interview, teach, coach, care for]
+    dimensions:
+      social_emotional_requirement: high
+      trust_requirement: high
+  digital_language:
+    keywords: [draft, write, summarize, analyze, review documents, answer inquiries, respond to inquiries, prepare reports, research, interpret information, maintain records, document, advise, communicate, explain, provide information, recommend, compare, classify, estimate, evaluate, determine]
+    dimensions:
+      digital_input_availability: high
+      digital_output_acceptability: high
+      language_reasoning_requirement: high
+  structured_workflow:
+    keywords: [schedule, process payments, receive payments, collect fees, sell tickets, enter data, update records, calculate, reconcile, route, dispatch, reservations, book appointments, generate invoices, issue receipts, monitor inventory, maintain inventory, record transactions]
+    dimensions:
+      structured_rule_content: high
+      verification_observability: high
+      environmental_variability: low
+  vision:
+    keywords: [inspect, examine, observe, monitor, identify, detect, check products, check quality, read meters, count items, scan, verify identity]
+    dimensions:
+      verification_observability: high
+      digital_input_availability: medium
+  maintenance:
+    keywords: [monitor equipment, diagnose malfunction, preventive maintenance, maintenance schedule, inspect machinery]
+    dimensions:
+      physical_manipulation_requirement: medium
+      verification_observability: medium
+  variable_environment:
+    keywords: [construction site, outdoors, customer premises, roadway, farm, animal, patient, child]
+    dimensions:
+      environmental_variability: high
+      exception_variability: high
+
+modality_rules:
+  llm_assistance:
+    positive_dimensions: [digital_input_availability, digital_output_acceptability, language_reasoning_requirement]
+    blockers: [physical_manipulation_requirement, safety_criticality]
+  software_agent_execution:
+    positive_dimensions: [digital_input_availability, digital_output_acceptability, structured_rule_content, verification_observability]
+    blockers: [physical_manipulation_requirement, legal_accountability_requirement, exception_variability]
+  rules_based_rpa:
+    positive_dimensions: [structured_rule_content, digital_input_availability, verification_observability]
+    blockers: [language_reasoning_requirement, exception_variability]
+  computer_vision:
+    positive_dimensions: [verification_observability, digital_input_availability]
+    blockers: [social_emotional_requirement, legal_accountability_requirement]
+  speech_interface:
+    positive_keywords: [telephone, call, answer inquiries, reservations, appointment, customer questions]
+  identity_and_access_automation:
+    positive_keywords: [verify identity, admit, access, entry, check credentials, issue keys]
+  scheduling_and_optimisation:
+    positive_keywords: [schedule, route, allocate, dispatch, roster, book appointments]
+  predictive_maintenance:
+    positive_keywords: [monitor equipment, preventive maintenance, diagnose malfunction, maintenance schedule]
+  fixed_environment_robotics:
+    positive_keywords: [assemble, sort, package, wash, dispense, move materials, fold, wrap, load machine, unload machine]
+  unstructured_environment_robotics:
+    positive_keywords: [clean, repair, construction, outdoors, groom, prepare food, deliver]
+
+residual_human_categories:
+  physical_handling: [lift, carry, load, unload, clean, replenish, install, repair, prepare food, wash, groom, drive, deliver]
+  emergency_response: [emergency, accident, injury, evacuate, first aid]
+  safety_supervision: [safety, supervise children, monitor patients, guard, security]
+  legal_accountability: [certify, authorize, prescribe, diagnose, legal compliance]
+  customer_reassurance: [comfort, counsel, mediate, resolve complaints]
+  complex_exceptions: [unusual, complex, investigate, troubleshoot, negotiate]
+
+staffing_constraints:
+  on_site_required_keywords: [childcare, healthcare, care home, restaurant, cafe, bakery, vehicle repair, grooming, bowling, gym, karaoke, accommodation, transport]
+  remote_supervision_candidate_keywords: [self-service, self storage, storage facility, parcel collection, studio rental, rehearsal room, vending, car park]
+  regulated_presence_keywords: [childcare, healthcare, medical, dental, pharmacy, social care]

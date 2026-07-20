@@ -1,0 +1,70 @@
+occupation_code,occupation_title,task_id,task_statement,reason,requires_manual_review
+11-9171.00,Funeral Home Managers,23984,Deliver death certificates to medical facilities or offices to obtain signatures from legally authorized persons.,No published exposure row,true
+13-1020,Buyers and purchasing agents,,,No official O*NET-SOC mapping for BLS occupation,true
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",23985,"Develop and administer compensation programs, such as merit or incentive pay.",No published exposure row,true
+13-2020,Property appraisers and assessors,,,No official O*NET-SOC mapping for BLS occupation,true
+15-2021.00,Mathematicians,24002,Mentor others on mathematical techniques.,No published exposure row,true
+15-2031.00,Operations Research Analysts,23986,Review research literature.,No published exposure row,true
+17-2041.00,Chemical Engineers,24003,Develop computer models of chemical processes.,No published exposure row,true
+17-2071.00,Electrical Engineers,23956,Develop software to control electrical systems.,No published exposure row,true
+17-2081.00,Environmental Engineers,23987,Attend professional conferences to share information.,No published exposure row,true
+17-2111.02,Fire-Prevention and Protection Engineers,24004,Review building plans to verify compliance with fire code.,No published exposure row,true
+19-1023.00,Zoologists and Wildlife Biologists,23957,"Develop, or make recommendations on, management systems and plans for wildlife populations and habitat, consulting with stakeholders and the public at large to explore options.",No published exposure row,true
+19-1023.00,Zoologists and Wildlife Biologists,23958,Conduct literature reviews.,No published exposure row,true
+19-1031.03,Park Naturalists,23959,Train staff on park programs.,No published exposure row,true
+19-1031.03,Park Naturalists,23960,Provide care for park program animals.,No published exposure row,true
+19-1041.00,Epidemiologists,23961,Write articles for publication in professional journals.,No published exposure row,true
+19-1041.00,Epidemiologists,23962,Write grant applications to fund epidemiologic research.,No published exposure row,true
+19-3011.00,Economists,23988,Review documents written by others.,No published exposure row,true
+19-3041.00,Sociologists,23963,Explain sociological research to the general public.,No published exposure row,true
+19-3041.00,Sociologists,23964,Write grants to obtain funding for research projects.,No published exposure row,true
+19-4092.00,Forensic Science Technicians,23965,Measure and sketch crime scenes to document evidence.,No published exposure row,true
+19-4092.00,Forensic Science Technicians,23966,"Examine footwear, tire tracks, or other types of impressions.",No published exposure row,true
+19-4092.00,Forensic Science Technicians,23967,"Examine physical evidence, such as hair, biological fluids, fiber, wood, or soil residues to obtain information about its source and composition.",No published exposure row,true
+19-4092.00,Forensic Science Technicians,23969,Analyze data from computers or other digital media sources for evidence related to criminal activity.,No published exposure row,true
+19-5011.00,Occupational Health and Safety Specialists,23989,Write reports.,No published exposure row,true
+21-1012.00,"Educational, Guidance, and Career Counselors and Advisors",23990,"Counsel individuals or groups to help them understand and overcome personal, social, or behavioral problems affecting their educational or vocational situations.",No published exposure row,true
+21-1012.00,"Educational, Guidance, and Career Counselors and Advisors",23991,Refer students to outside counseling services.,No published exposure row,true
+21-1018,"Substance abuse, behavioral disorder, and mental health counselors",,,No official O*NET-SOC mapping for BLS occupation,true
+23-1011.00,Lawyers,23992,Negotiate contractual agreements.,No published exposure row,true
+23-2011.00,Paralegals and Legal Assistants,23994,"Prepare, edit, or review legal documents, including legislation, briefs, pleadings, appeals, wills, contracts, and real estate closing statements.",No published exposure row,true
+25-1061.00,"Anthropology and Archeology Teachers, Postsecondary",24005,Hire new faculty.,No published exposure row,true
+25-2052,"Special education teachers, kindergarten and elementary school",,,No official O*NET-SOC mapping for BLS occupation,true
+25-9045,"Teaching assistants, except postsecondary",,,No official O*NET-SOC mapping for BLS occupation,true
+27-1012.00,Craft Artists,24006,Pack products for shipping.,No published exposure row,true
+27-1024.00,Graphic Designers,23970,Prepare digital files for printing.,No published exposure row,true
+27-1024.00,Graphic Designers,23971,Research the target audience of projects.,No published exposure row,true
+27-1024.00,Graphic Designers,23972,Write or edit copy for clients.,No published exposure row,true
+27-1025.00,Interior Designers,23995,Research health and safety code requirements to inform design.,No published exposure row,true
+29-1023.00,Orthodontists,23973,Advise patients to comply with treatment plans.,No published exposure row,true
+29-1024.00,Prosthodontists,23996,Examine patients to diagnose oral health conditions and diseases.,No published exposure row,true
+29-2010,Clinical laboratory technologists and technicians,,,No official O*NET-SOC mapping for BLS occupation,true
+29-2035.00,Magnetic Resonance Imaging Technologists,23974,Review physicians' orders to confirm prescribed exams.,No published exposure row,true
+29-2035.00,Magnetic Resonance Imaging Technologists,23975,"Comfort patients during exams, or request sedatives or other medication from physicians for patients with anxiety or claustrophobia.",No published exposure row,true
+31-1120,Home health and personal care aides,,,No official O*NET-SOC mapping for BLS occupation,true
+33-3012.00,Correctional Officers and Jailers,23976,"Take fingerprints of arrestees, prisoners, or the general public.",No published exposure row,true
+33-3021.02,Police Identification and Records Officers,24007,Take fingerprints.,No published exposure row,true
+33-3021.06,Intelligence Analysts,23997,Identify gaps in information.,No published exposure row,true
+39-5091.00,"Makeup Artists, Theatrical and Performance",24008,Clean supplies such as makeup brushes.,No published exposure row,true
+39-6012.00,Concierges,24009,"Book airline or train tickets, reserve rental cars, or arrange shuttle service for guests.",No published exposure row,true
+39-6012.00,Concierges,24010,Assist guests with special needs by providing equipment such as wheelchairs.,No published exposure row,true
+39-7010,Tour and travel guides,,,No official O*NET-SOC mapping for BLS occupation,true
+47-2011.00,Boilermakers,24011,"Conduct pressure tests on vessels, such as boilers.",No published exposure row,true
+47-3013.00,Helpers--Electricians,23977,"Operate heavy equipment, such as backhoes.",No published exposure row,true
+47-4090,Miscellaneous construction and related workers,,,No official O*NET-SOC mapping for BLS occupation,true
+47-5071.00,"Roustabouts, Oil and Gas",23978,Lay gas and oil pipelines.,No published exposure row,true
+47-5071.00,"Roustabouts, Oil and Gas",23979,Clean trucks used in the fields.,No published exposure row,true
+49-9062.00,Medical Equipment Repairers,23980,"Inspect, test, or troubleshoot malfunctioning medical or related equipment, following manufacturers' specifications and using test and analysis instruments.",No published exposure row,true
+49-9062.00,Medical Equipment Repairers,23981,Install medical equipment.,No published exposure row,true
+51-2028,"Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers",,,No official O*NET-SOC mapping for BLS occupation,true
+51-2090,Miscellaneous assemblers and fabricators,,,No official O*NET-SOC mapping for BLS occupation,true
+51-4031.00,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",24012,"Use equipment designed to join sheet metal, such as spot welders.",No published exposure row,true
+51-4034.00,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",23998,Program computer numerical control machines.,No published exposure row,true
+51-4034.00,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",23999,Clean work area.,No published exposure row,true
+51-6042.00,Shoe Machine Operators and Tenders,24000,Inspect finished products to ensure that shoes have been completed according to specifications.,No published exposure row,true
+51-6051.00,"Sewers, Hand",24001,"Fit garments on clients, altering as needed.",No published exposure row,true
+51-6061.00,Textile Bleaching and Dyeing Machine Operators and Tenders,23982,"Weigh ingredients, such as dye, to be mixed together for use in textile processing.",No published exposure row,true
+51-9023.00,"Mixing and Blending Machine Setters, Operators, and Tenders",23983,Clean work areas.,No published exposure row,true
+51-9162.00,Computer Numerically Controlled Tool Programmers,24013,Order tooling for jobs.,No published exposure row,true
+53-1047,"First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",,,No official O*NET-SOC mapping for BLS occupation,true
+53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",10783,"Assemble product containers or crates, using hand tools and precut lumber.",No published exposure row,true
